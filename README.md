@@ -63,21 +63,6 @@
 
 ---
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalgupta)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kunal@example.com)
-
----
-
-## ☕ Support Me
-
-If you like my work, consider showing some support 💖:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/KunalLorex)
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
