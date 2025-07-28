@@ -6,11 +6,10 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer at [Company Name or Freelancer]
+- 💻 Software Engineer at NUIX Technologies
 - 🌱 Currently improving my skills in writing **clean, scalable code**
-- 💬 Ask me about **React, Vue, Node.js, MongoDB, UI/UX design**
-- 📫 Reach out to me at: **kunal@example.com**
-- 👨‍💻 Check out my work: [My Portfolio Website](https://yourportfolio.com)
+- 💬 Ask me about **React, Vue, Node.js, MongoDB, UI/UX design, React Native, AWS, Microservices, etc**
+- 📫 Reach out to me at: **guptakunal738@gmail.com**
 - ⚡ Fun fact: I enjoy **teaching**, mentoring, and breaking down complex topics simply.
 
 ---
